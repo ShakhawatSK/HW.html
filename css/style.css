@@ -1,0 +1,98 @@
+                                    * {
+                                        margin: 0;
+                                        padding: 0;
+                                    }
+                                    
+                                    body {
+                                        background: url(../img/bg.jpg);
+                                    }
+                                    
+                                    .container {
+                                        width: 1140px;
+                                        margin: 0 auto;
+                                    }
+                                    
+                                    .frome {
+                                        width: 100%;
+                                        float: left;
+                                    }
+                                    
+                                    .frome-left {
+                                        width: 50%;
+                                        float: left;
+                                        margin-top: 55px;
+                                    }
+                                    
+                                    .frome-left h1 {
+                                        font-size: 32pt;
+                                        color: #fff;
+                                        font-family: 'Roboto Condensed', sans-serif;
+                                    }
+                                    
+                                    .frome-left h2 {
+                                        font-size: 32pt;
+                                        color: #fff;
+                                        font-family: 'Roboto Condensed', sans-serif;
+                                    }
+                                    
+                                    .frome-left h2 span {
+                                        font-family: 'Roboto Condensed', sans-serif;
+                                    }
+                                    
+                                    .frome-left p {
+                                        margin-top: 32px;
+                                        margin-bottom: 32px;
+                                        color: #fff;
+                                        font-family: 'Roboto Condensed', sans-serif;
+                                    }
+                                    
+                                    .frome-left ul {}
+                                    
+                                    .frome-left ul li {
+                                        color: #fff;
+                                        list-style: none;
+                                    }
+                                    
+                                    .frome-left button {
+                                        margin-top: 15px;
+                                        padding: 10px 30px;
+                                        border-radius: 23px;
+                                        border: none;
+                                    }
+                                    
+                                    .frome-right {
+                                        width: 50%;
+                                        float: left;
+                                        height: 500px;
+                                    }
+                                    
+                                    .frome-min {
+                                        width: 70%;
+                                        background: rgb(9, 185, 255);
+                                        height: 450px;
+                                        margin: 0 auto;
+                                        margin-top: 55px;
+                                    }
+                                    
+                                    .frome-left h2 span {
+                                        color: lime;
+                                    }
+                                    
+                                    .text-tx {
+                                        width: 80%;
+                                        padding: 10px;
+                                        margin-bottom: 10px;
+                                        margin-top: 10px;
+                                        display: block;
+                                        margin-left: 35px;
+                                    }
+                                    
+                                    .frome-min h2 {
+                                        text-align: center;
+                                        margin-bottom: 10px;
+                                    }
+                                    
+                                    .frome-min p {
+                                        text-align: center;
+                                        margin-bottom: 10px;
+                                    }
